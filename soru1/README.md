@@ -3,7 +3,7 @@
 şekilde eş zamanlı SSH connection açan basit bir proje oluşturubilir misin?
 
 # Kurulum
-<p><code>git clone [https://github.com/akinerkisa/HTLogin](https://github.com/akinerkisa/sorular/tree/main/soru1)</code></p>
+<p><code>git clone [https://github.com/akinerkisa/sorular/tree/main/soru1](https://github.com/akinerkisa/sorular/tree/main/soru1)</code></p>
 <p><code>cd soru1</code></p>
 <p><code>pip install -r requirements.txt</code></p>
 
