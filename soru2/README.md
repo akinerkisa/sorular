@@ -4,8 +4,8 @@ IP adreslerini listeleyen uygulama yazabilir misin? Not: Uygulama sürekli olara
 çalışacaktır
 
 # Kurulum
-<p><code>git clone https://github.com/akinerkisa/sorular/tree/main/soru2</code></p>
-<p><code>cd soru2</code></p>
+<p><code>git clone https://github.com/akinerkisa/sorular/</code></p>
+<p><code>cd sorular/soru2</code></p>
 <p><code>pip install -r requirements.txt</code></p>
 
 # Kullanım
