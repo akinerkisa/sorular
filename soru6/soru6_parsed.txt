@@ -1,0 +1,970 @@
+Gelen Veri: TIME: 2023-08-24 17:46:37.098
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: IP: 0.0.0.0 (96:4e:d7:51:42:de) > 255.255.255.255 (ff:ff:ff:ff:ff:ff)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OP: 1 (BOOTPREQUEST)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: HTYPE: 1 (Ethernet)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: HLEN: 6
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: HOPS: 0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: XID: 54330ee6
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: SECS: 0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: FLAGS: 0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: CIADDR: 0.0.0.0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: YIADDR: 0.0.0.0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: SIADDR: 0.0.0.0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: GIADDR: 0.0.0.0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: CHADDR: 96:4e:d7:51:42:de:00:00:00:00:00:00:00:00:00:00
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: SNAME: .
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: FNAME: .
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 53 ( 1) DHCP message type 3 (DHCPREQUEST)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 61 ( 7) Client-identifier 01:96:4e:d7:51:42:de
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 50 ( 4) Request IP address 10.38.1.117
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 57 ( 2) Maximum DHCP message size 1500
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 60 ( 15) Vendor class identifier android-dhcp-13
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 12 ( 12) Host name OnePlus-9-5G
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 55 ( 12) Parameter Request List 1 (Subnet mask)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 3 (Routers)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 6 (DNS server)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 15 (Domainname)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 26 (Interface MTU)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 28 (Broadcast address)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 51 (IP address leasetime)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 58 (T1)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 59 (T2)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 43 (Vendor specific info)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 114 (URL)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 108 (Swap Path)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: ---------------------------------------------------------------------------
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: TIME: 2023-08-24 17:46:37.098
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: IP: 10.38.1.26 (0:c:29:e5:40:a0) > 255.255.255.255 (ff:ff:ff:ff:ff:ff)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OP: 2 (BOOTPREPLY)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: HTYPE: 1 (Ethernet)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: HLEN: 6
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: HOPS: 0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: XID: 54330ee6
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: SECS: 0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: FLAGS: 0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: CIADDR: 0.0.0.0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: YIADDR: 10.38.1.117
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: SIADDR: 10.143.0.19
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: GIADDR: 0.0.0.0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: CHADDR: 96:4e:d7:51:42:de:00:00:00:00:00:00:00:00:00:00
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: SNAME: .
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: FNAME: snponly.efi.
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 53 ( 1) DHCP message type 5 (DHCPACK)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 58 ( 4) T1 60 (60s)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 59 ( 4) T2 105 (1m45s)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 51 ( 4) IP address leasetime 120 (2m)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 54 ( 4) Server identifier 10.38.1.26
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 1 ( 4) Subnet mask 255.255.255.0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 3 ( 4) Routers 10.38.1.254
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 6 ( 8) DNS server 10.38.1.26,10.143.0.14
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 15 ( 11) Domainname rakort.pls
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: ---------------------------------------------------------------------------
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: TIME: 2023-08-24 17:46:52.386
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: IP: 0.0.0.0 (a0:ec:f9:38:67:3d) > 255.255.255.255 (ff:ff:ff:ff:ff:ff)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OP: 1 (BOOTPREQUEST)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: HTYPE: 1 (Ethernet)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: HLEN: 6
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: HOPS: 0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: XID: 00002097
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: SECS: 0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: FLAGS: 8000
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: CIADDR: 0.0.0.0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: YIADDR: 0.0.0.0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: SIADDR: 0.0.0.0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: GIADDR: 0.0.0.0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: CHADDR: a0:ec:f9:38:67:3d:00:00:00:00:00:00:00:00:00:00
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: SNAME: .
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: FNAME: .
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 53 ( 1) DHCP message type 1 (DHCPDISCOVER)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 57 ( 2) Maximum DHCP message size 1200
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 61 ( 7) Client-identifier 01:a0:ec:f9:38:67:3d
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 12 ( 6) Host name Rakort
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 55 ( 9) Parameter Request List 1 (Subnet mask)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 6 (DNS server)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 15 (Domainname)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 44 (NetBIOS name server)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 3 (Routers)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 7 (Log server)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 33 (Static route)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 150 (???)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 43 (Vendor specific info)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 60 ( 14) Vendor class identifier Cisco AP c1600
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: ---------------------------------------------------------------------------
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: TIME: 2023-08-24 17:46:52.386
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: IP: 10.38.1.26 (0:c:29:e5:40:a0) > 255.255.255.255 (ff:ff:ff:ff:ff:ff)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OP: 2 (BOOTPREPLY)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: HTYPE: 1 (Ethernet)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: HLEN: 6
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: HOPS: 0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: XID: 00002097
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: SECS: 0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: FLAGS: 0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: CIADDR: 0.0.0.0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: YIADDR: 10.38.1.128
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: SIADDR: 10.143.0.19
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: GIADDR: 0.0.0.0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: CHADDR: a0:ec:f9:38:67:3d:00:00:00:00:00:00:00:00:00:00
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: SNAME: .
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: FNAME: snponly.efi.
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 53 ( 1) DHCP message type 2 (DHCPOFFER)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 1 ( 4) Subnet mask 255.255.255.0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 58 ( 4) T1 60 (60s)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 59 ( 4) T2 105 (1m45s)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 51 ( 4) IP address leasetime 120 (2m)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 54 ( 4) Server identifier 10.38.1.26
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 6 ( 8) DNS server 10.38.1.26,10.143.0.14
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 15 ( 11) Domainname rakort.pls
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 3 ( 4) Routers 10.38.1.254
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: ---------------------------------------------------------------------------
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: TIME: 2023-08-24 17:46:52.386
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: IP: 0.0.0.0 (a0:ec:f9:38:67:3d) > 255.255.255.255 (ff:ff:ff:ff:ff:ff)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OP: 1 (BOOTPREQUEST)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: HTYPE: 1 (Ethernet)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: HLEN: 6
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: HOPS: 0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: XID: 00002097
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: SECS: 0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: FLAGS: 8000
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: CIADDR: 0.0.0.0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: YIADDR: 0.0.0.0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: SIADDR: 0.0.0.0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: GIADDR: 0.0.0.0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: CHADDR: a0:ec:f9:38:67:3d:00:00:00:00:00:00:00:00:00:00
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: SNAME: .
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: FNAME: .
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 53 ( 1) DHCP message type 3 (DHCPREQUEST)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 57 ( 2) Maximum DHCP message size 1200
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 61 ( 7) Client-identifier 01:a0:ec:f9:38:67:3d
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 54 ( 4) Server identifier 10.38.1.26
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 50 ( 4) Request IP address 10.38.1.128
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 12 ( 6) Host name Rakort
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 55 ( 9) Parameter Request List 1 (Subnet mask)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 6 (DNS server)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 15 (Domainname)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 44 (NetBIOS name server)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 3 (Routers)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 7 (Log server)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 33 (Static route)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 150 (???)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 43 (Vendor specific info)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 60 ( 14) Vendor class identifier Cisco AP c1600
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: ---------------------------------------------------------------------------
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: TIME: 2023-08-24 17:46:52.387
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: IP: 10.38.1.26 (0:c:29:e5:40:a0) > 255.255.255.255 (ff:ff:ff:ff:ff:ff)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OP: 2 (BOOTPREPLY)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: HTYPE: 1 (Ethernet)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: HLEN: 6
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: HOPS: 0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: XID: 00002097
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: SECS: 0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: FLAGS: 0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: CIADDR: 0.0.0.0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: YIADDR: 10.38.1.128
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: SIADDR: 10.143.0.19
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: GIADDR: 0.0.0.0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: CHADDR: a0:ec:f9:38:67:3d:00:00:00:00:00:00:00:00:00:00
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: SNAME: .
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: FNAME: snponly.efi.
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 53 ( 1) DHCP message type 5 (DHCPACK)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 58 ( 4) T1 60 (60s)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 59 ( 4) T2 105 (1m45s)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 51 ( 4) IP address leasetime 120 (2m)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 54 ( 4) Server identifier 10.38.1.26
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 1 ( 4) Subnet mask 255.255.255.0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 6 ( 8) DNS server 10.38.1.26,10.143.0.14
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 15 ( 11) Domainname rakort.pls
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 3 ( 4) Routers 10.38.1.254
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: ---------------------------------------------------------------------------
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: TIME: 2023-08-24 17:47:08.194
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: IP: 0.0.0.0 (70:d9:31:39:a1:80) > 255.255.255.255 (ff:ff:ff:ff:ff:ff)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OP: 1 (BOOTPREQUEST)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: HTYPE: 1 (Ethernet)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: HLEN: 6
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: HOPS: 0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: XID: 0017c30c
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: SECS: 0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: FLAGS: 0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: CIADDR: 0.0.0.0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: YIADDR: 0.0.0.0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: SIADDR: 0.0.0.0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: GIADDR: 0.0.0.0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: CHADDR: 70:d9:31:39:a1:80:00:00:00:00:00:00:00:00:00:00
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: SNAME: .
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: FNAME: .
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 53 ( 1) DHCP message type 1 (DHCPDISCOVER)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 61 ( 7) Client-identifier 01:70:d9:31:39:a1:80
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 57 ( 2) Maximum DHCP message size 1464
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 60 ( 9) Vendor class identifier huawei AP
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 55 ( 10) Parameter Request List 1 (Subnet mask)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 3 (Routers)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 6 (DNS server)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 15 (Domainname)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 28 (Broadcast address)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 33 (Static route)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 43 (Vendor specific info)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 44 (NetBIOS name server)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 121 (Classless Static Route)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 184 (???)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: ---------------------------------------------------------------------------
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: TIME: 2023-08-24 17:47:08.194
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: IP: 10.38.1.26 (0:c:29:e5:40:a0) > 255.255.255.255 (ff:ff:ff:ff:ff:ff)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OP: 2 (BOOTPREPLY)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: HTYPE: 1 (Ethernet)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: HLEN: 6
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: HOPS: 0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: XID: 0017c30c
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: SECS: 0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: FLAGS: 0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: CIADDR: 0.0.0.0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: YIADDR: 10.38.1.112
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: SIADDR: 10.143.0.19
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: GIADDR: 0.0.0.0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: CHADDR: 70:d9:31:39:a1:80:00:00:00:00:00:00:00:00:00:00
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: SNAME: .
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: FNAME: snponly.efi.
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 53 ( 1) DHCP message type 2 (DHCPOFFER)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 1 ( 4) Subnet mask 255.255.255.0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 58 ( 4) T1 60 (60s)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 59 ( 4) T2 105 (1m45s)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 51 ( 4) IP address leasetime 120 (2m)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 54 ( 4) Server identifier 10.38.1.26
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 3 ( 4) Routers 10.38.1.254
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 6 ( 8) DNS server 10.38.1.26,10.143.0.14
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 15 ( 11) Domainname rakort.pls
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: ---------------------------------------------------------------------------
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: TIME: 2023-08-24 17:47:08.194
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: IP: 0.0.0.0 (70:d9:31:39:a1:80) > 255.255.255.255 (ff:ff:ff:ff:ff:ff)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OP: 1 (BOOTPREQUEST)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: HTYPE: 1 (Ethernet)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: HLEN: 6
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: HOPS: 0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: XID: 43a74a5b
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: SECS: 0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: FLAGS: 0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: CIADDR: 0.0.0.0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: YIADDR: 0.0.0.0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: SIADDR: 0.0.0.0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: GIADDR: 0.0.0.0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: CHADDR: 70:d9:31:39:a1:80:00:00:00:00:00:00:00:00:00:00
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: SNAME: .
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: FNAME: .
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 53 ( 1) DHCP message type 3 (DHCPREQUEST)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 50 ( 4) Request IP address 10.38.1.112
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 61 ( 7) Client-identifier 01:70:d9:31:39:a1:80
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 54 ( 4) Server identifier 10.38.1.26
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 57 ( 2) Maximum DHCP message size 1464
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 60 ( 9) Vendor class identifier huawei AP
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 55 ( 10) Parameter Request List 1 (Subnet mask)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 3 (Routers)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 6 (DNS server)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 15 (Domainname)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 28 (Broadcast address)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 33 (Static route)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 43 (Vendor specific info)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 44 (NetBIOS name server)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 121 (Classless Static Route)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 184 (???)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: ---------------------------------------------------------------------------
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: TIME: 2023-08-24 17:47:08.195
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: IP: 10.38.1.26 (0:c:29:e5:40:a0) > 255.255.255.255 (ff:ff:ff:ff:ff:ff)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OP: 2 (BOOTPREPLY)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: HTYPE: 1 (Ethernet)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: HLEN: 6
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: HOPS: 0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: XID: 43a74a5b
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: SECS: 0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: FLAGS: 0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: CIADDR: 0.0.0.0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: YIADDR: 10.38.1.112
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: SIADDR: 10.143.0.19
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: GIADDR: 0.0.0.0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: CHADDR: 70:d9:31:39:a1:80:00:00:00:00:00:00:00:00:00:00
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: SNAME: .
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: FNAME: snponly.efi.
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 53 ( 1) DHCP message type 5 (DHCPACK)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 58 ( 4) T1 60 (60s)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 59 ( 4) T2 105 (1m45s)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 51 ( 4) IP address leasetime 120 (2m)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 54 ( 4) Server identifier 10.38.1.26
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 1 ( 4) Subnet mask 255.255.255.0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 3 ( 4) Routers 10.38.1.254
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 6 ( 8) DNS server 10.38.1.26,10.143.0.14
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 15 ( 11) Domainname rakort.pls
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: ---------------------------------------------------------------------------
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: TIME: 2023-08-24 17:47:11.834
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: IP: 0.0.0.0 (7e:e7:25:62:8e:bf) > 255.255.255.255 (ff:ff:ff:ff:ff:ff)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OP: 1 (BOOTPREQUEST)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: HTYPE: 1 (Ethernet)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: HLEN: 6
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: HOPS: 0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: XID: 52af474c
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: SECS: 0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: FLAGS: 0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: CIADDR: 0.0.0.0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: YIADDR: 0.0.0.0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: SIADDR: 0.0.0.0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: GIADDR: 0.0.0.0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: CHADDR: 7e:e7:25:62:8e:bf:00:00:00:00:00:00:00:00:00:00
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: SNAME: .
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: FNAME: .
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 53 ( 1) DHCP message type 1 (DHCPDISCOVER)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 61 ( 7) Client-identifier 01:7e:e7:25:62:8e:bf
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 57 ( 2) Maximum DHCP message size 1500
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 60 ( 15) Vendor class identifier android-dhcp-13
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 12 ( 9) Host name Android8T
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 55 ( 12) Parameter Request List 1 (Subnet mask)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 3 (Routers)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 6 (DNS server)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 15 (Domainname)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 26 (Interface MTU)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 28 (Broadcast address)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 51 (IP address leasetime)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 58 (T1)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 59 (T2)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 43 (Vendor specific info)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 114 (URL)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 108 (Swap Path)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 80 ( 0) Naming Authority
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: ---------------------------------------------------------------------------
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: TIME: 2023-08-24 17:47:11.834
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: IP: 10.38.1.26 (0:c:29:e5:40:a0) > 255.255.255.255 (ff:ff:ff:ff:ff:ff)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OP: 2 (BOOTPREPLY)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: HTYPE: 1 (Ethernet)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: HLEN: 6
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: HOPS: 0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: XID: 52af474c
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: SECS: 0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: FLAGS: 0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: CIADDR: 0.0.0.0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: YIADDR: 10.38.1.129
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: SIADDR: 10.143.0.19
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: GIADDR: 0.0.0.0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: CHADDR: 7e:e7:25:62:8e:bf:00:00:00:00:00:00:00:00:00:00
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: SNAME: .
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: FNAME: snponly.efi.
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 53 ( 1) DHCP message type 2 (DHCPOFFER)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 1 ( 4) Subnet mask 255.255.255.0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 58 ( 4) T1 60 (60s)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 59 ( 4) T2 105 (1m45s)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 51 ( 4) IP address leasetime 120 (2m)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 54 ( 4) Server identifier 10.38.1.26
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 3 ( 4) Routers 10.38.1.254
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 6 ( 8) DNS server 10.38.1.26,10.143.0.14
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 15 ( 11) Domainname rakort.pls
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: ---------------------------------------------------------------------------
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: TIME: 2023-08-24 17:47:11.835
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: IP: 0.0.0.0 (7e:e7:25:62:8e:bf) > 255.255.255.255 (ff:ff:ff:ff:ff:ff)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OP: 1 (BOOTPREQUEST)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: HTYPE: 1 (Ethernet)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: HLEN: 6
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: HOPS: 0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: XID: 52af474c
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: SECS: 0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: FLAGS: 0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: CIADDR: 0.0.0.0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: YIADDR: 0.0.0.0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: SIADDR: 0.0.0.0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: GIADDR: 0.0.0.0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: CHADDR: 7e:e7:25:62:8e:bf:00:00:00:00:00:00:00:00:00:00
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: SNAME: .
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: FNAME: .
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 53 ( 1) DHCP message type 3 (DHCPREQUEST)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 61 ( 7) Client-identifier 01:7e:e7:25:62:8e:bf
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 50 ( 4) Request IP address 10.38.1.129
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 54 ( 4) Server identifier 10.38.1.26
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 57 ( 2) Maximum DHCP message size 1500
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 60 ( 15) Vendor class identifier android-dhcp-13
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 12 ( 9) Host name Android8T
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 55 ( 12) Parameter Request List 1 (Subnet mask)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 3 (Routers)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 6 (DNS server)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 15 (Domainname)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 26 (Interface MTU)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 28 (Broadcast address)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 51 (IP address leasetime)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 58 (T1)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 59 (T2)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 43 (Vendor specific info)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 114 (URL)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 108 (Swap Path)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: ---------------------------------------------------------------------------
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: TIME: 2023-08-24 17:47:11.835
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: IP: 10.38.1.26 (0:c:29:e5:40:a0) > 255.255.255.255 (ff:ff:ff:ff:ff:ff)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OP: 2 (BOOTPREPLY)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: HTYPE: 1 (Ethernet)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: HLEN: 6
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: HOPS: 0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: XID: 52af474c
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: SECS: 0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: FLAGS: 0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: CIADDR: 0.0.0.0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: YIADDR: 10.38.1.129
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: SIADDR: 10.143.0.19
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: GIADDR: 0.0.0.0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: CHADDR: 7e:e7:25:62:8e:bf:00:00:00:00:00:00:00:00:00:00
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: SNAME: .
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: FNAME: snponly.efi.
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 53 ( 1) DHCP message type 5 (DHCPACK)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 58 ( 4) T1 60 (60s)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 59 ( 4) T2 105 (1m45s)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 51 ( 4) IP address leasetime 120 (2m)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 54 ( 4) Server identifier 10.38.1.26
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 1 ( 4) Subnet mask 255.255.255.0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 3 ( 4) Routers 10.38.1.254
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 6 ( 8) DNS server 10.38.1.26,10.143.0.14
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 15 ( 11) Domainname rakort.pls
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: ---------------------------------------------------------------------------
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: TIME: 2023-08-24 17:47:41.994
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: IP: 0.0.0.0 (7e:e7:25:62:8e:bf) > 255.255.255.255 (ff:ff:ff:ff:ff:ff)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OP: 1 (BOOTPREQUEST)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: HTYPE: 1 (Ethernet)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: HLEN: 6
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: HOPS: 0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: XID: cee3c8d9
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: SECS: 0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: FLAGS: 0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: CIADDR: 0.0.0.0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: YIADDR: 0.0.0.0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: SIADDR: 0.0.0.0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: GIADDR: 0.0.0.0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: CHADDR: 7e:e7:25:62:8e:bf:00:00:00:00:00:00:00:00:00:00
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: SNAME: .
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: FNAME: .
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 53 ( 1) DHCP message type 3 (DHCPREQUEST)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 61 ( 7) Client-identifier 01:7e:e7:25:62:8e:bf
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 50 ( 4) Request IP address 10.38.1.129
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 57 ( 2) Maximum DHCP message size 1500
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 60 ( 15) Vendor class identifier android-dhcp-13
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 12 ( 9) Host name Android8T
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 55 ( 12) Parameter Request List 1 (Subnet mask)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 3 (Routers)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 6 (DNS server)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 15 (Domainname)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 26 (Interface MTU)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 28 (Broadcast address)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 51 (IP address leasetime)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 58 (T1)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 59 (T2)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 43 (Vendor specific info)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 114 (URL)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 108 (Swap Path)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: 
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: ---------------------------------------------------------------------------
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: TIME: 2023-08-24 17:47:41.994
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: IP: 10.38.1.26 (0:c:29:e5:40:a0) > 255.255.255.255 (ff:ff:ff:ff:ff:ff)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OP: 2 (BOOTPREPLY)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: HTYPE: 1 (Ethernet)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: HLEN: 6
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: HOPS: 0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: XID: cee3c8d9
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: SECS: 0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: FLAGS: 0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: CIADDR: 0.0.0.0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: YIADDR: 10.38.1.129
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: SIADDR: 10.143.0.19
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: GIADDR: 0.0.0.0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: CHADDR: 7e:e7:25:62:8e:bf:00:00:00:00:00:00:00:00:00:00
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: SNAME: .
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: FNAME: snponly.efi.
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 53 ( 1) DHCP message type 5 (DHCPACK)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 58 ( 4) T1 60 (60s)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 59 ( 4) T2 105 (1m45s)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 51 ( 4) IP address leasetime 120 (2m)
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 54 ( 4) Server identifier 10.38.1.26
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 1 ( 4) Subnet mask 255.255.255.0
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 3 ( 4) Routers 10.38.1.254
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 6 ( 8) DNS server 10.38.1.26,10.143.0.14
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: OPTION: 15 ( 11) Domainname rakort.pls
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
+Gelen Veri: --------------------------------------------------------------------------
+Ayrıştırılan Veri: {'Client-identifier': None, 'Request IP address': None, 'Vendor class identifier': None, 'Host name': None}
